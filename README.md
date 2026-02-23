@@ -152,6 +152,7 @@ Read `DESIGN_BRIEF.md` completely (30 min)
 - ❌ No "Learn More" without CTA
 - ❌ No sales call scheduling
 - ❌ No complex navigation
+- ❌ No prequalification questions (let anyone test the demo)
 
 ---
 
